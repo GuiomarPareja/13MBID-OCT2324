@@ -10,6 +10,7 @@ Prof: Dr. Horacio Kuna
 Dictado: OCT23-24
 
 Alumno: Guiomar Pareja de Diego
+**Repositorio de desarrollo de la práctica de la asignatura**
 
 ## Descripción del contenido
 
